@@ -1,2 +1,2 @@
 # STR_WEB
-# Ignatenko Artem Andreevich
+Ignatenko Artem Andreevich
